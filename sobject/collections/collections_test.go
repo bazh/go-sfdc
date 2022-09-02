@@ -11,7 +11,7 @@ import (
 
 	"github.com/TuSKan/go-sfdc"
 	"github.com/TuSKan/go-sfdc/session"
-	"./sobject"
+	"github.com/TuSKan/go-sfdc/sobject"
 )
 
 func Test_collection_send(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 
 	"github.com/TuSKan/go-sfdc"
 	"github.com/TuSKan/go-sfdc/session"
-	"./sobject"
+	"github.com/TuSKan/go-sfdc/sobject"
 )
 
 type mockInserter struct {

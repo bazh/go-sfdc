@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/TuSKan/go-sfdc/session"
-	"./sobject"
+	"github.com/TuSKan/go-sfdc/sobject"
 )
 
 type mockQuery struct {

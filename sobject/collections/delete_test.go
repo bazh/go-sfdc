@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"./sobject"
+	"github.com/TuSKan/go-sfdc/sobject"
 
 	"github.com/TuSKan/go-sfdc"
 
